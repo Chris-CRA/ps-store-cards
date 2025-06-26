@@ -1,59 +1,87 @@
-# Store
+<h1 align="center">
+🎮 PS Store Cards
+</h1>
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-17-red?logo=angular&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
+</p>
 
-## Development server
+<p align="center">
+  💥 Interface inspirada na PlayStation Store | 🔥 Angular + CSS | 🛒 Cards interativos com link para compra
+</p>
 
-To start a local development server, run:
+---
+
+## 🖼️ Demonstração
+
+<div align="center">
+  <img src="assets/demo.png" alt="Imagem Home Page" width="700px"/>
+</div>
+
+---
+
+## 📌 Sobre o Projeto
+
+Este é um projeto em Angular com foco em **componentização**, **interatividade visual** e **design limpo**.  
+Ele simula uma vitrine de jogos estilo PlayStation Store com:
+
+- 🖼️ Imagem destacada
+- 🏷️ Rótulo customizado (ex: "Exclusive", "Digital")
+- 💲 Preço + Tipo de mídia (Digital/Disco)
+- 🔗 Link externo para compra
+- 🛒 Botão funcional “Comprar”
+
+Além disso, um menu fixo superior com links úteis foi incluído.
+
+---
+
+## 🧪 Tecnologias
+
+| Tecnologia   | Versão |
+|--------------|--------|
+| Angular      | 17+    |
+| TypeScript   | 5+     |
+| HTML5 / CSS3 | -      |
+| Node.js      | 18+    |
+
+---
+
+## 🚀 Como rodar localmente
 
 ```bash
+# 1. Clone o repositório
+git clone https://github.com/Chris-CRA/ps-store-cards.git
+
+# 2. Acesse a pasta do projeto
+cd ps-store-cards
+
+# 3. Instale as dependências
+npm install
+
+# 4. Rode o servidor de desenvolvimento
 ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+# 5. Acesse o projeto no navegador
+http://localhost:4200
 
-## Code scaffolding
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+💡 Funcionalidades
+✅ Layout moderno com animações no hover
+✅ Componente de menu com links externos
+✅ Botão de compra com redirecionamento
+✅ Estrutura baseada em componentes standalone
+✅ Pronto para publicação no GitHub Pages
 
-```bash
-ng generate component component-name
-```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+📬 Contato
 
-```bash
-ng generate --help
-```
+💼 LinkedIn
 
-## Building
+🧑‍💻 GitHub
 
-To build the project run:
+✉️ Email: chriscra_amorim@yahoo.com.br
 
-```bash
-ng build
-```
+<p align="center"> Feito com ❤️ por <strong>Christiane Rodrigues</strong> </p> ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
