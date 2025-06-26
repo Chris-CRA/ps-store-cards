@@ -1,0 +1,21 @@
+<div class="card__container">
+
+  
+  <img
+    class="card__image" 
+    [src]="gameCover" 
+    alt="Capa do jogo {{ gameLabel }}" 
+  >
+
+ 
+  <app-card-label [gameLabel]="gameLabel"></app-card-label>
+
+ 
+  <app-card-pricing 
+    [gameType]="gameType" 
+    [gamePrice]="gamePrice" 
+    [gameLink]="gameLink">
+  </app-card-pricing>
+
+</div>
+
