@@ -14,14 +14,6 @@
 
 ---
 
-## 🖼️ Preview
-
-<div align="center">
-  <img src="assets2/demo.png" alt="Preview do projeto" width="700px" />
-</div>
-
----
-
 ## 📌 Sobre o Projeto
 
 Este é um projeto em Angular com foco em **componentização**, **interatividade visual** e **design limpo**.  
