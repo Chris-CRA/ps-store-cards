@@ -17,7 +17,7 @@
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="assets/demo.png" alt="Preview do projeto" width="700px" />
+  <img src="assets2/demo.png" alt="Preview do projeto" width="700px" />
 </div>
 
 ---
