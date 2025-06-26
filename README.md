@@ -14,10 +14,10 @@
 
 ---
 
-## 🖼️ Demonstração
+## 🖼️ Preview
 
 <div align="center">
-  <img src="assets/demo.png" alt="Imagem Home Page" width="700px"/>
+  <img src="assets/demo.png" alt="Preview do projeto" width="700px" />
 </div>
 
 ---
@@ -83,5 +83,5 @@ http://localhost:4200
 
 ✉️ Email: chriscra_amorim@yahoo.com.br
 
-<p align="center"> Feito com ❤️ por <strong>Christiane Rodrigues</strong> </p> ```
+<p align="center"> Feito com ❤️ por <strong>Christiane Rodrigues</strong> </p>
 
